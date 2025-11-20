@@ -50,19 +50,20 @@
 
 ###
 
-<h2 align="center"><< other small skills >></h2>
+<h4 align="center"><< other small skills >></h4>
 
 ###
 
-<h4 align="center">I HAVE SOME HOBIES AND SOME AS I CALL ''USFULL SKILLS'' :</h4>
+<h2 align="center">I HAVE SOME HOBIES AND SOME AS I CALL ''USFULL SKILLS'' :</h2>
 
 ###
-
+<br>
 <p align="center">~I CAN DRAW <br>(im love drawing since childhood it has always been my hobby)<br><br>~I CAN DESIGN <br>(i think that my sense of design comes from loving art i cant say that im as good as designer)<br><br>~I CAN EDIT VIDEOS<br> (editing videos was my childhood hobby and i continue to learn better through experience)<br><br>~I WORK HARD TO MAKE SOMETHING WORK AND HARDLY GIVE UP <br>(exectly what it says :)<br><br>~I CAN LEARN THINGS I DONT KNOW FROM DIFFERENT BROWSERS<br>(like others i search everything i dont know on different browesers and dont give up until i find answers)<br><br>~I KNOW ENGLISH PRETTY WELL <br>(but not like a native speaker my level is B2+ to C1)</p>
 
 ###
-
-<h2 align="center">MY SOCIAL MEDIA PLATFORMS ARE  :</h2>
+<br>
+<br>
+<h2 align="center" >MY SOCIAL MEDIA PLATFORMS ARE  :</h2>
 
 ###
 
