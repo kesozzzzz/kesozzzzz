@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">~ I CAN USE HTML AND CSS AND CAN CREAT WEB-SITES <br>( i'm recently learning JavaScript and im not able to use it YET ;)</p>
+<p align="left">~ I CAN USE JS, HTML AND CSS AND CAN CREAT WEB-SITES <br>( i'm recently learning Angular and im not able to use it Proparly YET ;)</p>
 
 ###
 
