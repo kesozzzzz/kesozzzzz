@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">~ I CAN USE JS, HTML AND CSS AND CAN CREAT WEB-SITES <br>( i'm recently learning Angular and im not able to use it Proparly YET ;)</p>
+<p align="left">~ I CAN USE JS, HTML - CSS, ANGULAR AND CAN CREATE FULL WORKING WEB-SITES <br> ~ ( i'm recently learning Backend and im not able to use it Proparly YET ;)</p> 
 
 ###
 
@@ -29,7 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img src="https://www.w3schools.com/whatis/img_js.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/C4E12AQE4KsrEqUHHbA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1533074638309?e=2147483647&v=beta&t=oqmo2KfiSFo_RKXDy5xR5JntcdbPG1XmKGw2qS1x-74" height="40" alt="angular/typescript logo"  />
 </div>
 
 ###
